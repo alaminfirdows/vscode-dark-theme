@@ -1,0 +1,19 @@
+{
+    "name": "vscode-dark-theme",
+    "displayName": "Dark theme for VS Code. Developed By Al-Amin Firdows.",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Dark+ (Al-Amin)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/dark-theme.json"
+        }]
+    }
+}
